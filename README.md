@@ -33,6 +33,15 @@ retail analytics workflow — from raw data cleaning to executive KPI reporting.
 | 4-CTE + CROSS JOIN | Query 6 — Executive Dashboard |
 
 ---
+## Results Preview
+
+### Query 1 — Revenue & Margin by Brand
+
+
+### Query 2 — Return Rate Analysis
+![Return Rate](screenshots/02_return_rate_analysis.png)
+
+---
 
 ## Key Findings
 - Overall return rate: **14.7%** — above healthy retail benchmark
