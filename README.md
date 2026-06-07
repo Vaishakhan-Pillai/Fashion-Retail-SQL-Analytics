@@ -52,5 +52,5 @@ retail analytics workflow — from raw data cleaning to executive KPI reporting.
 ---
 
 ## Note on Workflow
-Took the help of Claude and Gemini to frame business questions and accelerate debugging. All queries were written, tested, and debugged 
+Leveraged Claude and Gemini to frame business questions and accelerate debugging. All queries were written, tested, and debugged 
 independently in MySQL Workbench.
