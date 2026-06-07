@@ -36,17 +36,31 @@ retail analytics workflow — from raw data cleaning to executive KPI reporting.
 ## Results Preview
 
 ### Query 1 — Revenue & Margin by Brand
-
+<img width="855" height="205" alt="1  Revenue   Margin Summary by Brand" src="https://github.com/user-attachments/assets/fab856ef-393e-417a-bcfe-ab4a4edc5304" />
 
 ### Query 2 — Return Rate Analysis
-![Return Rate](screenshots/02_return_rate_analysis.png)
+<img width="845" height="431" alt="2  Return Rate Analysis" src="https://github.com/user-attachments/assets/69ba992b-75fa-49fc-b9a2-1f75c15ca1bf" />
+
+### Query 3 — Inventory Health & Stockout Risk
+<img width="1035" height="427" alt="3  Inventory Health   Stockout Risk" src="https://github.com/user-attachments/assets/7fb6d35a-e082-4bd9-9fb7-af16957dcb65" />
+
+### Query 4 — Seasonal Revenue Trends
+<img width="783" height="432" alt="4  Seasonal Revenue Trends" src="https://github.com/user-attachments/assets/09e4cb95-aa99-4c74-8ecf-569968949e02" />
+
+### Query 5 — Brand Performance Ranking
+<img width="790" height="433" alt="5  Brand Performance Ranking" src="https://github.com/user-attachments/assets/b244b628-4f39-49f6-a8ce-e0f6bc7014f6" />
+
+### Query 6 — Executive Summary
+<img width="1542" height="51" alt="6  Executive Summary" src="https://github.com/user-attachments/assets/5d2a3758-0ece-4e6a-b1cf-ab58b9181abb" />
+
+
 
 ---
 
 ## Key Findings
 - Overall return rate: **14.7%** — above healthy retail benchmark
-- Empty string NULLs discovered in Size column during cleaning (89 records)
-- Markdown applied to majority of products; clearance-tier items 
+- Empty string NULLs discovered in the Size column during cleaning (89 records)
+- Markdown applied to the majority of products; clearance-tier items 
   show no improvement in ratings or returns
 - High-rated low-stock items identified for priority reorder
 
